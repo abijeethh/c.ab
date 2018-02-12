@@ -19,4 +19,5 @@ printf("given string not contains numbers");
 else
 printf("given string contains numbers");
 getch();
+  return 0;
 }
