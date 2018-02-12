@@ -15,4 +15,5 @@ void main()
     }
     printf("number of words in given string are: %d\n", count + 1);
     getch();
+ return o;
 }
