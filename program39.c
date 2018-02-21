@@ -20,4 +20,6 @@ a[j]=t;
 }
 printf("%d",a[n-1]);
 return 0;
+  getch();
+  
 }
