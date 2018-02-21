@@ -11,4 +11,5 @@ def main():
 	except:
 		print('invalid')
 main()
+getch();
 return 0;
