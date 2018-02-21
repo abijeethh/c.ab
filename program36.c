@@ -15,4 +15,5 @@ for(i=0;i<l;i++)
 }
 printf("Special character:%d",sum);
 return 0;
+  getch();
 }
