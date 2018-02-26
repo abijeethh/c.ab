@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b;
+scanf("%d %d",&a,&b);
+a=a^b;
+b=a^b;
+a=a^b;
+printf("the swapped values are %d  %d",a,b);
+}
