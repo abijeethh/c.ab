@@ -10,6 +10,5 @@ void main() {
        f2=f;
        printf("%d\t",f);
 }
-return 0;
-    
-}
+    getch ();
+    }
